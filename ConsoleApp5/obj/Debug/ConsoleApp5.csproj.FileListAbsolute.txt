@@ -1,0 +1,6 @@
+D:\Новая папка (2)\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Новая папка (2)\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Новая папка (2)\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Новая папка (2)\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Новая папка (2)\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
