@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp2
+namespace ConsoleApp4
 {
     /// <summary>
     /// Задача 4. Сортировка массива по возрастанию.
