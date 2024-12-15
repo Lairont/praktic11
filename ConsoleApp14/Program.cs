@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp4
+namespace ConsoleApp14
 {
     /// <summary>
     /// Задача 14. Дан курс рубля России за январь 2023 года. Рассчитать:
