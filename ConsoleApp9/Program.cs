@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp9
+    /// <summary>
+    /// Задача 9. Поиск индекса элемента.
+    /// </summary>
 {
     internal class Program
     {
