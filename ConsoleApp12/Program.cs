@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp5
+namespace ConsoleApp12
 {
     /// <summary>
     /// Задача 12. Умножение всех элементов массива на определенное число.
