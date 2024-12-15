@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp2
+namespace ConsoleApp6
 {
     /// <summary>
     /// Задача 6. Подсчет количества вхождений определенного числа в массив.
