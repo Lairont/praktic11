@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp10
+namespace ConsoleApp11
 {
     /// <summary>
     /// Задача 11. Сумма всех элементов массива.
