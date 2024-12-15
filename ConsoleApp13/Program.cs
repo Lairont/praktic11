@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp3
+namespace ConsoleApp13
 {
     /// <summary>
     /// Задача 13. Заполните одномерный массив числовыми данными случайным образом из промежутка [ - 50;50].
